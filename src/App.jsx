@@ -1,9 +1,16 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { BrowserRouter } from 'react-router-dom';
+
+import GlobalStyle from './styles/global';
+import Routes from './routes';
 
 function App() {
-  return <div className="App"></div>;
+  return (
+    <BrowserRouter>
+      <GlobalStyle />
+      <Routes />
+    </BrowserRouter>
+  );
 }
 
 export default App;
