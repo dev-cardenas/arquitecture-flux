@@ -1,1 +1,3 @@
-## Instalar reactotron-redux-saga
+## Instalar reactotron-redux-saga react-toastify
+
+
