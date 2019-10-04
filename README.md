@@ -1,3 +1,3 @@
-## Instalar reactotron-redux-saga react-toastify
+## Instalar reactotron-redux-saga react-toastify history
 
 
